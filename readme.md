@@ -1,3 +1,3 @@
-Send metric every minutes
 
-* * * * * python3 /home/ubuntu/monitor-rabbitmq/app.py
+en el crontab 
+python3 /home/ubuntu/monitor-rabbitmq/app.py
