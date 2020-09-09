@@ -1,3 +1,3 @@
 
-en el crontab 
-python3 /home/ubuntu/monitor-rabbitmq/app.py
+**crontab** 
+sudo python3 /path/app.py
